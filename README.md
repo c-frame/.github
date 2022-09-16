@@ -30,7 +30,7 @@ Here's how we'll approach merge requests here:
 - pretty much anyone who has demonstrated themselves to be competent in a relevant way and good natured
 
 ## maintainer expectations
-- there's no obligation to contribute anything; if you are available, great, if you're not, no problem
+- there's no obligation to contribute anything; if you are available, great, if you're not, no problem--if you have availability in the future, you're welcome to come
 - just be excellent to each other and act in the spirit of this document
 
 **Have your repo added here is an honor! It means you made something critical to the community, and that others are volunteering to make sure your code stays relevant and keeps being used.**
