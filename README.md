@@ -5,14 +5,16 @@ THREE.js and WebXR are fast moving targets. A-Frame core necessarily must remain
 This github org is a place to host community-maintained forks of popular projects. It works in conjunction with [aframe.wiki](http://aframe.wiki) to be a place for community stewardship of information.
 
 ## how we approach merge requests
-Be more permissive/progressive with accepting code than strict about guarantees of reliability with every version; a priority is made on updating to stay current. Carefully verifying that nothing will break is hard, and takes a lot of work. The inability to verify this is often why people never get around to merging those requests.
+Be more permissive/progressive with accepting code than strict about guarantees of reliability with every version; a priority is made on updating to stay current. Carefully verifying that nothing will break is hard, and takes a lot of work. The inability to verify this is often why people never get around to merging those requests. Here, to avoid the stagnation that can result from that approach, we instead focus on not falling behind.
+
+Here's how we'll approach merge requests here:
 
 - give it a solid look
 - request a second look if it's complex
 - ask the contributor to explain code if needed
 - readability matters, but don't focus on style
 - it's ok to suggest better ways to reformat code, but default to (1) accepting the request and co-authoring the change directly yourself or (2) making the change separately after their request or (3) pull requesting against the prettifier settings
-- merge optimistically; if it later is found that it something, fix it or revert it as needed
+- merge optimistically; if it later is found that it breaks something, fix it or revert it as needed
 
 ## handling disagreements
 - add an auto-prettify hook that formats code consistently and eliminates the need for disagreements about style. If you think something is bad style, propose a pull request to the prettyfier that covers it
