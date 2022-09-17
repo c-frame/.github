@@ -28,7 +28,7 @@ Here's how we'll approach merge requests here:
 
 ## adding maintainers
 - an informal discussion among current maintainers may lead to an invitation to this org
-- pretty much anyone who has demonstrated themselves to be competent in a relevant way and good natured
+- generally we invite those who have demonstrated themselves to have relevant competence, are good natured, and uphold the spirit of open source
 
 ## maintainer expectations
 - there's no obligation to contribute anything; if you are available, great, if you're not, no problem--if you have availability in the future, you're welcome to come
