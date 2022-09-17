@@ -24,6 +24,7 @@ Here's how we'll approach merge requests here:
 - if a release hasn't been made for >3 months or if a significant pull request has been ignored for >3 months, then we may consider adding a "community fork" here
 - alternatively, an author may request their repo being added here if they want to pass on the maintenance burden
 - stuff here makes it easier to find for the community, so if you want to stay as a primary maintainer but get extra help and visibility, that's also an option
+- when we add a repo, we fork the _original_ project, then pull request forks and pr branches against the aframe-community fork and review/add them here
 
 ## adding maintainers
 - an informal discussion among current maintainers may lead to an invitation to this org
