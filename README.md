@@ -15,6 +15,7 @@ Here's how we'll approach merge requests here:
 - readability matters, but don't focus on style
 - it's ok to suggest better ways to reformat code, but default to (1) accepting the request and co-authoring the change directly yourself or (2) making the change separately after their request or (3) pull requesting against the prettifier settings
 - merge optimistically; if it later is found that it breaks something, fix it or revert it as needed
+- encourage more contributions by making contributing a pleasant experience for the contributor if possible! we're grateful that others are trying to contribute their free work towards the common good
 
 ## handling disagreements
 - add an auto-prettify hook that formats code consistently and eliminates the need for disagreements about style. If you think something is bad style, propose a pull request to the prettyfier that covers it
