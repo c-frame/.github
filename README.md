@@ -33,7 +33,7 @@ Here's how we'll approach merge requests here:
 - generally we invite those who have demonstrated themselves to have relevant competence, are good natured, and uphold the spirit of open source
 
 ## maintainer expectations
-- there's no obligation to contribute anything; if you are available, great, if you're not, no problem--if you have availability in the future, you're welcome to come
+- there's no obligation to contribute anything; if you are available, great, if you're not, no problem--if you have availability in the future, you're welcome to jump back in
 - just be excellent to each other and act in the spirit of this document
 
 **Have your repo added here is a sign of appreciation and respect! It means you made something critical to the community, and that others are volunteering to make sure your code stays relevant and keeps being used.**
