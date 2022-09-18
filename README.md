@@ -25,6 +25,7 @@ Here's how we'll approach merge requests here:
 - alternatively, an author may request their repo being added here if they want to pass on the maintenance burden
 - stuff here makes it easier to find for the community, so if you want to stay as a primary maintainer but get extra help and visibility, that's also an option
 - when we add a repo, we fork the _original_ project, then pull request forks and pr branches against the aframe-community fork and review/add them here
+- when possible, the best option is to migrate the existing repo, to carry across existing issues and pr's
 
 ## adding maintainers
 - an informal discussion among current maintainers may lead to an invitation to this org
@@ -34,6 +35,6 @@ Here's how we'll approach merge requests here:
 - there's no obligation to contribute anything; if you are available, great, if you're not, no problem--if you have availability in the future, you're welcome to come
 - just be excellent to each other and act in the spirit of this document
 
-**Have your repo added here is an honor! It means you made something critical to the community, and that others are volunteering to make sure your code stays relevant and keeps being used.**
+**Have your repo added here is a sign of appreciation and respect! It means you made something critical to the community, and that others are volunteering to make sure your code stays relevant and keeps being used.**
 - we will list very clear credit to the original author and repo
 - generally, we'll add the author as a maintainer to the repo; we'd of course love your expertise if you have the time and will to continue to contribute
