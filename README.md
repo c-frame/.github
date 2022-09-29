@@ -2,7 +2,7 @@
 
 THREE.js and WebXR are fast moving targets. A-Frame core necessarily must remain small to stay manageable. But many other components provide that provide critical functionality to the ecosystem often end up falling behind on maintanence. This ends up with an ecosystem of many fractured forks that have to be sorted through to get things working when updates happen.
 
-This github org is a place to host community-maintained forks of popular projects. It works in conjunction with [aframe.wiki](http://aframe.wiki) to be a place for community stewardship of of the ecosystem. This org is just a collective of devs in the a-frame community who give a best effort at helping to keep stuff working. 
+This github org is a place to host community-maintained forks of popular projects. It works in conjunction with [aframe.wiki](http://aframe.wiki) to be a place for community stewardship of of the ecosystem. This org is just a collective of devs in the a-frame community who give a best effort at helping to keep stuff working. Pull requests are always welcome here!
 
 ## how we approach merge requests
 Be more permissive/progressive with accepting code than strict about guarantees of reliability with every version; a priority is made on updating to stay current. Carefully verifying that nothing will break is hard, and takes a lot of work. The inability to verify this is often why people never get around to merging those requests. Here, to avoid the stagnation that can result from that approach, we instead focus on not falling behind.
