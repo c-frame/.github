@@ -39,3 +39,6 @@ Here's how we'll approach merge requests here:
 **Have your repo added here is a sign of appreciation and respect! It means you made something critical to the community, and that others are volunteering to make sure your code stays relevant and keeps being used.**
 - we will list very clear credit to the original author and repo
 - generally, we'll add the author as a maintainer to the repo; we'd of course love your expertise if you have the time and will to continue to contribute
+
+## Contributors
+- To allow things to go smoothly, please [allow maintainers to edit](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/allowing-changes-to-a-pull-request-branch-created-from-a-fork) your PR fork.
